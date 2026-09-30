@@ -1,4 +1,4 @@
-# Final Project 27 — VisionSense AI
+# VisionSense AI
 
 ## Manual upload flow
 
